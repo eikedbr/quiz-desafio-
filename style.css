@@ -1,0 +1,17 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: #111827; /* Fundo escuro para combinar com o tema do espaço */
+    color: #d1d5db;
+}
+.container {
+    background-color: #1f2937;
+    border-radius: 1rem;
+}
+.correct-answer {
+    background-color: #10b981; /* Verde */
+    color: white;
+}
+.incorrect-answer {
+    background-color: #ef4444; /* Vermelho */
+    color: white;
+}
